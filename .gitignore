@@ -1,0 +1,7 @@
+vehicle_ids_env/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+.vscode/
